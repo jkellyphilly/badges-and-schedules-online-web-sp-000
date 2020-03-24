@@ -1,6 +1,6 @@
 # Write your code here.
-def badge_maker(speakers)
-  "Hello, my name is #{name}."
+def badge_maker(speaker)
+  "Hello, my name is #{speaker}."
 end
 
 def batch_badge_creator(speakers)
