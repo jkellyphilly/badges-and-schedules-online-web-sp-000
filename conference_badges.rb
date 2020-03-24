@@ -14,3 +14,7 @@ def assign_rooms(speakers)
   speakers.each_with_index {|speaker, index| assignments << "Hello, #{speaker}! You'll be assigned to room #{index + 1}!"}
   assignments
 end
+
+def printer
+
+end
