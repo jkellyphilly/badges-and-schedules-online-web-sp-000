@@ -1,5 +1,5 @@
 # Write your code here.
-def badge_maker(name)
+def badge_maker(speakers)
   "Hello, my name is #{name}."
 end
 
