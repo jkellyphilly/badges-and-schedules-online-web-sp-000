@@ -15,6 +15,8 @@ def assign_rooms(speakers)
   assignments
 end
 
-def printer
-
+def printer(speakers)
+  speakers.each do |speaker|
+    puts "Hello, "
+  end
 end
