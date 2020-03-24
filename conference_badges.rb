@@ -17,6 +17,6 @@ end
 
 def printer(speakers)
   speakers.each do |speaker|
-    puts "Hello, "
+    puts badge_maker(speaker)
   end
 end
